@@ -8,9 +8,9 @@
 <p/>
 <p align="center">
 <a href="https://github.com/coderxsa?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/coderxsa?label=Followers&style=social"></a>
-<a href="https://github.com/coderxsa/CYGNUS-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/coderxsa/CYGNUS-BOT?&style=social"></a>
-<a href="https://github.com/coderxsa/CYGNUS-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/coderxsa/CYGNUS-BOT?style=social"></a>
-<a href="https://github.com/coderxsa/CYGNUS-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/coderxsa/CYGNUS-BOT?label=Watching&style=social"></a>
+<a href="https://github.com/coderxsa/CYGNUS-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/coderxsa/ANITAv2?&style=social"></a>
+<a href="https://github.com/coderxsa/CYGNUS-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/coderxsa/ANITAv2?style=social"></a>
+<a href="https://github.com/coderxsa/CYGNUS-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/coderxsa/ANITAv2?label=Watching&style=social"></a>
 <a href="" alt="FOSSA Status"><img src=""/></a>
 </p>
 
