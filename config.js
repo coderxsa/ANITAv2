@@ -26,7 +26,7 @@ module.exports = {
   menu: process.env.MENU || "",
   HANDLERS: process.env.PREFIX || "!",
   BRANCH: process.env.BRANCH || "main",
-  VERSION: process.env.VERSION || "2.0.0",
+  VERSION: process.env.VERSION || "2.0.4",
   caption: process.env.CAPTION || "`©ANITA`",
   author: process.env.PACK_AUTHER || "ANITA",
   packname: process.env.PACK_NAME || "A N I T A",
